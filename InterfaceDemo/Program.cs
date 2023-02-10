@@ -1,6 +1,5 @@
 ﻿using InterfaceDemo.Interfaces;
 using InterfaceDemo.Models;
-using System.Reflection.Metadata;
 
 Console.Write("Welcome to the Player Inventory / C# Interfaces demo! Enter Player name: ");
 string userName = Console.ReadLine();
